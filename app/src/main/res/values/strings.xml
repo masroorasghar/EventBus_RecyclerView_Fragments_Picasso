@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EventBusRecyclerViewFragmentsPicasso</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="card_button_string">Remove</string>
+    <string name="id">ID</string>
+    <string name="colun">:</string>
+    <string name="name">NAME</string>
+    <string name="email">EMAIL</string>
+    <string name="phone">PHONE</string>
+</resources>
